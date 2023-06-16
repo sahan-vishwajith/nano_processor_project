@@ -1,0 +1,9 @@
+0.6
+2018.2
+Jun 14 2018
+20:41:02
+C:/Users/ACER/Desktop/Done assingment/Nano_processor/Nano_processor.sim/sim_1/synth/func/xsim/Program_counter_TB_func_synth.v,1685701044,verilog,,,,ADD_SUB;D_FF;D_FF_1;D_FF_2;D_FF_3;MUX_8_to_1_4bit;MUX_8_to_1_4bit_0;Nano_Processor_0;Register_Bank;Registers;Slow_Clk;glbl,,,,,,,,
+C:/Users/ACER/Desktop/Done assingment/Nano_processor/Nano_processor.srcs/sim_1/new/Program_counter_TB.vhd,1685693536,vhdl,,,,program_counter_tb,,,,,,,,
+C:/Users/ACER/Desktop/Done assingment/Nano_processor/Nano_processor.srcs/sources_1/new/D_FF.vhd,1685172007,vhdl,,,,d_ff,,,,,,,,
+C:/Users/ACER/Desktop/Done assingment/Nano_processor/Nano_processor.srcs/sources_1/new/Program_counter.vhd,1685563995,vhdl,,,,program_counter,,,,,,,,
+C:/Users/ACER/Desktop/Done assingment/Nano_processor/Nano_processor.srcs/sources_1/new/Slow_Clk.vhd,1685169685,vhdl,,,,slow_clk,,,,,,,,
