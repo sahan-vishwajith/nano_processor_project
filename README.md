@@ -29,4 +29,4 @@ Usage<br>
 This processor can be used as a teaching tool to help students learn about microprocessor design. Users can simulate the output of the top-level design and view the final result through LEDs connected to register R7.
 
 Credits
-This processor was designed by [sahan-vishwajith](https://github.com/sahan-vishwajith) and mahesh dilshan as part of [nano processor design](https://github.com/sahan-vishwajith/nano_processor_project/tr). Please feel free to use this code for educational purposes, but credit should be given where appropriate.
+This processor was designed by [sahan-vishwajith](https://github.com/sahan-vishwajith) and [mahesh-dilshan](https://github.com/maheshdila1) as part of [nano processor design](https://github.com/sahan-vishwajith/nano_processor_project/tr). Please feel free to use this code for educational purposes, but credit should be given where appropriate.
