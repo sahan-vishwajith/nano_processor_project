@@ -1,4 +1,6 @@
-# nano_processor_projectThe nanoprocessor is a simple 4-bit microprocessor designed to execute a set of instructions. It consists of several components, including a 4-bit add/subtract unit, a 3-bit adder, a program counter, a register bank, an instruction decoder, a program ROM, and various multiplexers and buses. The processor supports four instructions: MOVI (move immediate value), ADD (addition), NEG (2's complement), and JZR (jump if zero).
+# nano_processor_project
+The nanoprocessor 
+is a simple 4-bit microprocessor designed to execute a set of instructions. It consists of several components, including a 4-bit add/subtract unit, a 3-bit adder, a program counter, a register bank, an instruction decoder, a program ROM, and various multiplexers and buses. The processor supports four instructions: MOVI (move immediate value), ADD (addition), NEG (2's complement), and JZR (jump if zero).
 
 The register bank contains eight 4-bit registers, with R0 hard-coded to all zeros. The program ROM stores the assembly program, which is converted to machine code and hard-coded into ROM. The top-level design is tested using simulation, and the output of register R7 is connected to LEDs to display the final result.
 
