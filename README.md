@@ -5,27 +5,27 @@ This is a simple 4-bit microprocessor designed to execute a set of instructions.
 Components
 The processor includes several components, including:
 
-4-bit add/subtract unit
-3-bit adder
-Program counter
-Register bank with eight 4-bit registers
-Instruction decoder
-Program ROM
-Multiplexers and buses
-Instructions
-The processor is capable of executing four instructions:
+4-bit add/subtract unit<br>
+3-bit adder<br>
+Program counter<br>
+Register bank with eight 4-bit registers<br>
+Instruction decoder<br>
+Program ROM<br>
+Multiplexers and buses<br>
+Instructions<br>
+The processor is capable of executing four instructions:<br>
 
-MOVI (move immediate value)
-ADD (addition)
-NEG (2's complement)
-JZR (jump if zero)
-Limitations
-The processor has some limitations due to its design, including:
+MOVI (move immediate value)<br>
+ADD (addition)<br>
+NEG (2's complement)<br>
+JZR (jump if zero)<br>
+Limitations<br>
+The processor has some limitations due to its design, including:<br>
 
-Slow clock rate (ticks every 2-3 seconds)
-Only able to handle 4-bit integers
-Limited instruction set
-Usage
+Slow clock rate (ticks every 2-3 seconds)<br>
+Only able to handle 4-bit integers<br>
+Limited instruction set<br>
+Usage<br>
 This processor can be used as a teaching tool to help students learn about microprocessor design. Users can simulate the output of the top-level design and view the final result through LEDs connected to register R7.
 
 Credits
